@@ -1,5 +1,5 @@
 <litepal>
-    <dbname value="coolweather" />
+    <dbname value="cool_weather" />
     <version value="1"/>
     <list>
         <mapping class="com.yangh.coolweather.db.Province"/>
