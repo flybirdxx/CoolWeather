@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="coolweather" />
+    <version value="1"/>
+    <list>
+        <mapping class="com.yangh.coolweather.db.Province"/>
+        <mapping class="com.yangh.coolweather.db.City"/>
+        <mapping class="com.yangh.coolweather.db.County"/>
+    </list>
+</litepal>
